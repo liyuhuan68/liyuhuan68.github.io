@@ -1,7 +1,7 @@
 # Yuhuan Li
-🎓 Graduates - MS Biostatistics, UW --23 FALL | - BS Statistics, SWUFE --19 FALL
+🎓 Graduates - MS Biostatistics, UW --23 FALL🇺🇸 | - BS Statistics, SWUFE --19 FALL🇨🇳
 
-📖 Admitted - PhD Statistics, UIUC --25 FALL
+📖 Admitted - PhD Statistics, UIUC --25 FALL🇺🇸
 
 ## Research Interest
 - Survival Analysis
@@ -12,5 +12,5 @@
 - **Computer Programming**: R, Python, MATLAB, SPSS
 - **Musical Instruments**: Piano🎹, Guitar(Beginner)🎸
 - **Sports**:Fencing🤺, Basketball🏀
-- **Language**: Chinese, English, Japanese(Beginner)
+- **Language**: Chinese🇨🇳, English🇺🇸, Japanese(Beginner)🇯🇵
 - **Others**:Knitting(Beginner)🧶
