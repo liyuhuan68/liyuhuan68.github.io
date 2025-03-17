@@ -1,8 +1,16 @@
-# Plain Template
-We are using the template from https://github.com/MXHX7199/MXHX7199.github.io
+# Yuhuan Li
+🎓 Graduates - MS Biostatistics, UW --23 FALL | - BS Statistics, SWUFE --19 FALL
 
-##Comments below from the author of the template:
+📖 Admitted - PhD Statistics, UIUC --25 FALL
 
-If you are using it, I'd be happy to hear from you! You can drop me a line at ([link](https://mavroud.is))!
+## Research Interest
+- Survival Analysis
+- Stochastic Progress
+- Time Series
 
-You should copy this repo to your github account, and then modify it with your info!
+## Skills
+- **Computer Programming**: R, Python, MATLAB, SPSS
+- **Musical Instruments**: Piano🎹, Guitar(Beginner)🎸
+- **Sports**:Fencing🤺, Basketball🏀
+- **Language**: Chinese, English, Japanese(Beginner)
+- **Others**:Knitting(Beginner)🧶
