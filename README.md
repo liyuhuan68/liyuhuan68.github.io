@@ -74,3 +74,4 @@
 - I love food, either exploring good resturants or cooking myself.
 - I have a really good memory.
 - I love sunshine and snow, because they are two things that I rarely saw in both cities I lived (Chengdu and Seattle). Similarly, I also love oceans.
+- I am keen on histories and myth.
